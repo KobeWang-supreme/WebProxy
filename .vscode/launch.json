@@ -3,6 +3,7 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
+<<<<<<< HEAD
     "configurations": [
         {
             "type": "lldb",
@@ -13,4 +14,7 @@
             "cwd": "${workspaceFolder}"
         }
     ]
+=======
+    "configurations": []
+>>>>>>> 412e57a72e1b369e9c713e5d0222099445729b29
 }

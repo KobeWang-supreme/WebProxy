@@ -676,3 +676,7 @@ void MessageForwarder::forwardConnect(HttpRequest& req, int clientSocket, int cl
     
     // Note: The client socket is not closed here as it's managed by the caller
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 412e57a72e1b369e9c713e5d0222099445729b29
