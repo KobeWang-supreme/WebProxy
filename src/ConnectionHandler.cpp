@@ -77,9 +77,7 @@ void ConnectionHandler::handleClient(int clientSocket, int clientId){
         // Convert the C style string to the C++ style
         std::string request(buffer);
         // Get the response 
-        std::string response = requestHandler->handleRequest(request, clientSocket, clientId);
-        // Send to the server
-        send(clientSocket, response.c_str(), response.length(), 0);
+        requestHandler->handleRequest(request, clientSocket, clientId);
     }
     close(clientSocket);
 }

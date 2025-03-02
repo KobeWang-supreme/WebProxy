@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "client_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-client_test-Debug-2a35697d751b4ec5f2f1.json",
+					"jsonFile" : "target-client_test-Debug-428658db546d605bebe0.json",
 					"name" : "client_test",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "proxy_server::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-proxy_server-Debug-b25445c650773eebe2f2.json",
+					"jsonFile" : "target-proxy_server-Debug-ce373207cb5c91fbf638.json",
 					"name" : "proxy_server",
 					"projectIndex" : 0
 				}
@@ -58,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/ning/Documents/Github/WebProxy/build",
-		"source" : "/Users/ning/Documents/Github/WebProxy"
+		"build" : "/Users/john_wang/Desktop/proxy/WebProxy/build",
+		"source" : "/Users/john_wang/Desktop/proxy/WebProxy"
 	},
 	"version" : 
 	{

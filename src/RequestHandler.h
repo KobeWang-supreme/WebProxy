@@ -13,6 +13,6 @@ private:
 
 public:
     RequestHandler(std::shared_ptr<CacheManager> cache, std::shared_ptr<Logger> logger);
-    std::string handleRequest(const std::string& request, int clientSocket, int clientId);
-    std::string forwardRequest(HttpRequest httpRequest, int clientSocket, int clientId);
+    void handleRequest(const std::string& request, int clientSocket, int clientId);
+    void forwardRequest(HttpRequest httpRequest, int clientSocket, int clientId);
 }; 

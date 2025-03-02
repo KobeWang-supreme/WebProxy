@@ -1,0 +1,11 @@
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:38:44
+1: from 127.0.0.1 2025-03-01 14:38:54
+1: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:38:54
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:41:08
+No clientID: [ERROR] Failed to bind socket2025-03-01 14:41:08
+No clientID: [INFO] Stopping proxy server2025-03-01 14:41:08
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:41:32
+1: from 127.0.0.1 2025-03-01 14:41:35
+1: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:41:35
+2: from 127.0.0.1 2025-03-01 14:41:36
+2: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:41:36

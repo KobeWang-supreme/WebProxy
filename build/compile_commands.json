@@ -1,56 +1,56 @@
 [
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/main.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/main.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/main.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/main.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/main.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/main.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/main.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/CacheManager.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/CacheManager.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/CacheManager.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/CacheManager.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/CacheManager.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/CacheManager.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/CacheManager.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/ConnectionHandler.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/ConnectionHandler.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/ConnectionHandler.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/ConnectionHandler.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/ConnectionHandler.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/ConnectionHandler.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/ConnectionHandler.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/HttpParser.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/HttpParser.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/HttpParser.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/HttpParser.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/HttpParser.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/HttpParser.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/HttpParser.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/Logger.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/Logger.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/Logger.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/Logger.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/Logger.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/Logger.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/Logger.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/MessageForwarder.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/MessageForwarder.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/MessageForwarder.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/MessageForwarder.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/MessageForwarder.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/MessageForwarder.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/MessageForwarder.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/ProxyServer.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/ProxyServer.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/ProxyServer.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/ProxyServer.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/ProxyServer.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/ProxyServer.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/ProxyServer.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/RequestHandler.cpp.o -c /Users/ning/Documents/Github/WebProxy/src/RequestHandler.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/src/RequestHandler.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/proxy_server.dir/src/RequestHandler.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/src/RequestHandler.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/src/RequestHandler.cpp",
   "output": "CMakeFiles/proxy_server.dir/src/RequestHandler.cpp.o"
 },
 {
-  "directory": "/Users/ning/Documents/Github/WebProxy/build",
-  "command": "/usr/bin/clang++  -I/Users/ning/Documents/Github/WebProxy/src -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/client_test.dir/test/client_test.cpp.o -c /Users/ning/Documents/Github/WebProxy/test/client_test.cpp",
-  "file": "/Users/ning/Documents/Github/WebProxy/test/client_test.cpp",
+  "directory": "/Users/john_wang/Desktop/proxy/WebProxy/build",
+  "command": "/usr/bin/clang++  -I/Users/john_wang/Desktop/proxy/WebProxy/src -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread -o CMakeFiles/client_test.dir/test/client_test.cpp.o -c /Users/john_wang/Desktop/proxy/WebProxy/test/client_test.cpp",
+  "file": "/Users/john_wang/Desktop/proxy/WebProxy/test/client_test.cpp",
   "output": "CMakeFiles/client_test.dir/test/client_test.cpp.o"
 }
 ]

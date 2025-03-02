@@ -16,14 +16,14 @@ pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
 RequestHandler::RequestHandler(std::shared_ptr<CacheManager> cache, std::shared_ptr<Logger> logger)
     : cacheManager(cache), logger(logger), httpParser(std::make_unique<HttpParser>()) {}
 
-std::string RequestHandler::handleRequest(const std::string& request, int clientSocket, int clientId) {
+void RequestHandler::handleRequest(const std::string& request, int clientSocket, int clientId) {
     try {
         // Parse the http request
         HttpRequest parsedRequest = httpParser->parseRequest(request);
         if (!httpParser->isValidRequest(parsedRequest)) {
             //TODO: fix the format  it should be id: [TYPE] message rather than [TYPE] id:xxxxx
             logger->log(Logger::ERROR, std::to_string(clientId) + ":Invalid request received");
-            return "HTTP/1.1 400 Bad Request\r\n\r\n";
+            return ;
         }
         // Build the cache keys
         std::string cacheKey = parsedRequest.method + " " + parsedRequest.url;
@@ -35,18 +35,18 @@ std::string RequestHandler::handleRequest(const std::string& request, int client
             return cachedResponse;
         }
         */
-        std::string response = forwardRequest(parsedRequest, clientSocket,clientId);
+        forwardRequest(parsedRequest, clientSocket,clientId);
         // TODO: test cache later 
         // cacheManager->put(cacheKey, response, time(nullptr) + 300); // Cache for 5 minutes
         
-        return response;
+        return;
     } catch (const std::exception& e) {
         logger->log(Logger::ERROR, std::string("Error handling request: ") + e.what());
-        return "HTTP/1.1 500 Internal Server Error\r\n\r\n";
+        return;
     }
 }
 
-std::string RequestHandler::forwardRequest(HttpRequest httpRequest, int clientSocket, int clientId) {
+void RequestHandler::forwardRequest(HttpRequest httpRequest, int clientSocket, int clientId) {
     try {
         MessageForwarder forwarder;
         std::string serverName = httpRequest.headers["Host"];
@@ -57,13 +57,13 @@ std::string RequestHandler::forwardRequest(HttpRequest httpRequest, int clientSo
         
         std::string response;
         if (httpRequest.method == "GET") {
-            response = forwarder.forwardGet(httpRequest);
+            forwarder.forwardGet(httpRequest, clientSocket, clientId, logger);
         } else if (httpRequest.method == "POST") {
-            response = forwarder.forwardPost(httpRequest);
+            forwarder.forwardPost(httpRequest, clientSocket, clientId, logger);
         } else if (httpRequest.method == "CONNECT") {
-            response = forwarder.forwardConnect(httpRequest, clientSocket);
+            forwarder.forwardConnect(httpRequest, clientSocket, clientId, logger);
         } else {
-            return "Error: Unsupported method";
+            return;
         }
         
         // Parse the first line of the response to log
@@ -72,8 +72,8 @@ std::string RequestHandler::forwardRequest(HttpRequest httpRequest, int clientSo
         // Log the response after receiving
         logger->log("Received \"" + responseLine + "\" from " + serverName, clientId);
         
-        return response;
+        return ;
     } catch (const std::exception& e) {
-        return std::string("Error: ") + e.what();
+        return ;
     }
 }

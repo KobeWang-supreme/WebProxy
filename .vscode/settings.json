@@ -50,6 +50,12 @@
         "variant": "cpp",
         "vector": "cpp",
         "algorithm": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "__config": "cpp",
+        "charconv": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "__tree": "cpp",
+        "map": "cpp"
     }
 }

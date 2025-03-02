@@ -11,3 +11,631 @@
 4: from 127.0.0.1 2025-02-25 12:12:20
 4: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-02-25 12:12:20
 4: Received "" from www.google.com:443 2025-02-25 12:12:20
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 13:48:44
+1: from 127.0.0.1 2025-03-01 13:48:51
+1: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:51
+2: from 127.0.0.1 2025-03-01 13:48:56
+2: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:56
+2: Received "" from www.google.com:443 2025-03-01 13:48:57
+3: from 127.0.0.1 2025-03-01 13:48:57
+3: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:57
+3: Received "" from www.google.com:443 2025-03-01 13:48:57
+4: from 127.0.0.1 2025-03-01 13:48:57
+4: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:57
+4: Received "" from www.google.com:443 2025-03-01 13:48:57
+5: from 127.0.0.1 2025-03-01 13:48:57
+5: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:57
+5: Received "" from www.google.com:443 2025-03-01 13:48:58
+6: from 127.0.0.1 2025-03-01 13:48:58
+6: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:58
+6: Received "" from www.google.com:443 2025-03-01 13:48:58
+7: from 127.0.0.1 2025-03-01 13:48:58
+7: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:58
+7: Received "" from www.google.com:443 2025-03-01 13:48:58
+8: from 127.0.0.1 2025-03-01 13:48:58
+8: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:58
+8: Received "" from www.google.com:443 2025-03-01 13:48:59
+9: from 127.0.0.1 2025-03-01 13:48:59
+9: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 13:48:59
+9: Received "" from www.google.com:443 2025-03-01 13:48:59
+10: from 127.0.0.1 2025-03-01 13:49:01
+1: Received "" from www.google.com:443 2025-03-01 13:49:01
+10: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 13:49:01
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:02:08
+1: from 127.0.0.1 2025-03-01 14:02:32
+1: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:02:32
+1: Received "" from www.google.com:443 2025-03-01 14:02:32
+2: from 127.0.0.1 2025-03-01 14:02:32
+2: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:02:32
+3: from 127.0.0.1 2025-03-01 14:02:46
+3: Requesting "CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1" from mozilla.cloudflare-dns.com:443 2025-03-01 14:02:46
+4: from 127.0.0.1 2025-03-01 14:03:30
+4: Requesting "CONNECT ads.mozilla.org:443 HTTP/1.1" from ads.mozilla.org:443 2025-03-01 14:03:30
+5: from 127.0.0.1 2025-03-01 14:03:30
+5: Requesting "CONNECT merino.services.mozilla.com:443 HTTP/1.1" from merino.services.mozilla.com:443 2025-03-01 14:03:30
+2: Received "" from google.com:443 2025-03-01 14:03:31
+4: Received "" from ads.mozilla.org:443 2025-03-01 14:04:30
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:05:59
+1: from 127.0.0.1 2025-03-01 14:06:03
+1: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:06:03
+2: from 127.0.0.1 2025-03-01 14:06:22
+2: Requesting "CONNECT aus5.mozilla.org:443 HTTP/1.1" from aus5.mozilla.org:443 2025-03-01 14:06:22
+3: from 127.0.0.1 2025-03-01 14:06:26
+3: Requesting "CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1" from mozilla.cloudflare-dns.com:443 2025-03-01 14:06:26
+1: Received "" from google.com:443 2025-03-01 14:07:19
+4: from 127.0.0.1 2025-03-01 14:11:29
+4: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:11:29
+5: from 127.0.0.1 2025-03-01 14:11:46
+5: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:11:46
+5: Received "" from google.com:443 2025-03-01 14:12:22
+6: from 127.0.0.1 2025-03-01 14:13:15
+6: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:13:15
+7: from 127.0.0.1 2025-03-01 14:13:20
+7: Requesting "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from safebrowsing.googleapis.com:443 2025-03-01 14:13:20
+8: from 127.0.0.1 2025-03-01 14:13:32
+8: Requesting "CONNECT merino.services.mozilla.com:443 HTTP/1.1" from merino.services.mozilla.com:443 2025-03-01 14:13:32
+9: from 127.0.0.1 2025-03-01 14:13:32
+9: Requesting "CONNECT ads.mozilla.org:443 HTTP/1.1" from ads.mozilla.org:443 2025-03-01 14:13:32
+10: from 127.0.0.1 2025-03-01 14:13:47
+10: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:13:47
+10: Received "" from www.google.com:443 2025-03-01 14:13:48
+6: Received "" from google.com:443 2025-03-01 14:13:48
+11: from 127.0.0.1 2025-03-01 14:13:48
+11: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:13:48
+9: Received "" from ads.mozilla.org:443 2025-03-01 14:14:17
+11: Received "" from google.com:443 2025-03-01 14:14:19
+12: from 127.0.0.1 2025-03-01 14:14:27
+12: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org:443 2025-03-01 14:14:27
+13: from 127.0.0.1 2025-03-01 14:15:35
+13: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org:443 2025-03-01 14:15:35
+4: Received "" from google.com:443 2025-03-01 14:16:05
+14: from 127.0.0.1 2025-03-01 14:16:08
+14: Requesting "CONNECT google.com:443 HTTP/1.1" from google.com:443 2025-03-01 14:16:08
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 14:45:53
+1: from 127.0.0.1 2025-03-01 14:45:58
+1: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:45:58
+1: Received "" from www.google.com:443 2025-03-01 14:45:58
+2: from 127.0.0.1 2025-03-01 14:45:59
+2: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:45:59
+2: Received "" from www.google.com:443 2025-03-01 14:45:59
+3: from 127.0.0.1 2025-03-01 14:45:59
+3: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 14:45:59
+3: Received "" from www.google.com:443 2025-03-01 14:45:59
+No clientID: [INFO] Starting proxy server on port 123452025-03-01 23:07:05
+1: from 127.0.0.1 2025-03-01 23:07:07
+1: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org:443 2025-03-01 23:07:07
+No clientID: [INFO] Handling CONNECT request for client 1: incoming.telemetry.mozilla.org:4432025-03-01 23:07:07
+2: from 127.0.0.1 2025-03-01 23:07:07
+2: Requesting "CONNECT ads.mozilla.org:443 HTTP/1.1" from ads.mozilla.org:443 2025-03-01 23:07:07
+No clientID: [INFO] Handling CONNECT request for client 2: ads.mozilla.org:4432025-03-01 23:07:07
+3: from 127.0.0.1 2025-03-01 23:07:07
+3: Requesting "CONNECT merino.services.mozilla.com:443 HTTP/1.1" from merino.services.mozilla.com:443 2025-03-01 23:07:07
+No clientID: [INFO] Handling CONNECT request for client 3: merino.services.mozilla.com:4432025-03-01 23:07:07
+4: from 127.0.0.1 2025-03-01 23:07:07
+4: Requesting "CONNECT ads.mozilla.org:443 HTTP/1.1" from ads.mozilla.org:443 2025-03-01 23:07:07
+No clientID: [INFO] Handling CONNECT request for client 4: ads.mozilla.org:4432025-03-01 23:07:07
+No clientID: [INFO] Established tunnel for client 1 to incoming.telemetry.mozilla.org:4432025-03-01 23:07:07
+No clientID: [INFO] Established tunnel for client 3 to merino.services.mozilla.com:4432025-03-01 23:07:07
+No clientID: [INFO] Established tunnel for client 4 to ads.mozilla.org:4432025-03-01 23:07:07
+No clientID: [INFO] Established tunnel for client 2 to ads.mozilla.org:4432025-03-01 23:07:07
+5: from 127.0.0.1 2025-03-01 23:07:08
+5: Requesting "CONNECT ads-img.mozilla.org:443 HTTP/1.1" from ads-img.mozilla.org:443 2025-03-01 23:07:08
+No clientID: [INFO] Handling CONNECT request for client 5: ads-img.mozilla.org:4432025-03-01 23:07:08
+6: from 127.0.0.1 2025-03-01 23:07:08
+6: Requesting "CONNECT ads-img.mozilla.org:443 HTTP/1.1" from ads-img.mozilla.org:443 2025-03-01 23:07:08
+No clientID: [INFO] Handling CONNECT request for client 6: ads-img.mozilla.org:4432025-03-01 23:07:08
+7: from 127.0.0.1 2025-03-01 23:07:08
+7: Requesting "CONNECT ads-img.mozilla.org:443 HTTP/1.1" from ads-img.mozilla.org:443 2025-03-01 23:07:08
+No clientID: [INFO] Handling CONNECT request for client 7: ads-img.mozilla.org:4432025-03-01 23:07:08
+No clientID: [INFO] Established tunnel for client 5 to ads-img.mozilla.org:4432025-03-01 23:07:08
+No clientID: [INFO] Established tunnel for client 7 to ads-img.mozilla.org:4432025-03-01 23:07:08
+No clientID: [INFO] Established tunnel for client 6 to ads-img.mozilla.org:4432025-03-01 23:07:08
+8: from 127.0.0.1 2025-03-01 23:07:08
+9: from 127.0.0.1 2025-03-01 23:07:08
+10: from 127.0.0.1 2025-03-01 23:07:08
+8: Requesting "POST http://o.pki.goog/s/wr3/UTA HTTP/1.1" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Forwarding POST request for client 8: http://o.pki.goog/s/wr3/UTA2025-03-01 23:07:08
+9: Requesting "POST http://o.pki.goog/s/wr3/UTA HTTP/1.1" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Forwarding POST request for client 9: http://o.pki.goog/s/wr3/UTA2025-03-01 23:07:08
+10: Requesting "POST http://o.pki.goog/s/wr3/UTA HTTP/1.1" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Forwarding POST request for client 10: http://o.pki.goog/s/wr3/UTA2025-03-01 23:07:08
+No clientID: [INFO] Client 4 closed connection or error occurred2025-03-01 23:07:08
+No clientID: [INFO] Closed tunnel for client 4 to ads.mozilla.org:4432025-03-01 23:07:08
+4: Received "" from ads.mozilla.org:443 2025-03-01 23:07:08
+No clientID: [INFO] Completed forwarding POST request for client 102025-03-01 23:07:08
+10: Received "" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Completed forwarding POST request for client 82025-03-01 23:07:08
+8: Received "" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Completed forwarding POST request for client 92025-03-01 23:07:08
+9: Received "" from o.pki.goog 2025-03-01 23:07:08
+No clientID: [INFO] Client 5 closed connection or error occurred2025-03-01 23:07:08
+No clientID: [INFO] Closed tunnel for client 5 to ads-img.mozilla.org:4432025-03-01 23:07:08
+5: Received "" from ads-img.mozilla.org:443 2025-03-01 23:07:08
+No clientID: [INFO] Client 7 closed connection or error occurred2025-03-01 23:07:08
+No clientID: [INFO] Closed tunnel for client 7 to ads-img.mozilla.org:4432025-03-01 23:07:08
+7: Received "" from ads-img.mozilla.org:443 2025-03-01 23:07:08
+11: from 127.0.0.1 2025-03-01 23:07:11
+11: Requesting "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from firefox.settings.services.mozilla.com:443 2025-03-01 23:07:11
+No clientID: [INFO] Handling CONNECT request for client 11: firefox.settings.services.mozilla.com:4432025-03-01 23:07:11
+No clientID: [INFO] Established tunnel for client 11 to firefox.settings.services.mozilla.com:4432025-03-01 23:07:12
+12: from 127.0.0.1 2025-03-01 23:07:13
+12: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 23:07:13
+No clientID: [INFO] Handling CONNECT request for client 12: www.google.com:4432025-03-01 23:07:13
+No clientID: [INFO] Established tunnel for client 12 to www.google.com:4432025-03-01 23:07:13
+13: from 127.0.0.1 2025-03-01 23:07:13
+13: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:13
+No clientID: [INFO] Forwarding POST request for client 13: http://o.pki.goog/wr22025-03-01 23:07:13
+No clientID: [INFO] Completed forwarding POST request for client 132025-03-01 23:07:13
+13: Received "" from o.pki.goog 2025-03-01 23:07:13
+14: from 127.0.0.1 2025-03-01 23:07:15
+14: Requesting "CONNECT encrypted-tbn0.gstatic.com:443 HTTP/1.1" from encrypted-tbn0.gstatic.com:443 2025-03-01 23:07:15
+No clientID: [INFO] Handling CONNECT request for client 14: encrypted-tbn0.gstatic.com:4432025-03-01 23:07:15
+No clientID: [INFO] Established tunnel for client 14 to encrypted-tbn0.gstatic.com:4432025-03-01 23:07:15
+15: from 127.0.0.1 2025-03-01 23:07:15
+15: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:15
+No clientID: [INFO] Forwarding POST request for client 15: http://o.pki.goog/wr22025-03-01 23:07:15
+No clientID: [INFO] Completed forwarding POST request for client 152025-03-01 23:07:16
+15: Received "" from o.pki.goog 2025-03-01 23:07:16
+16: from 127.0.0.1 2025-03-01 23:07:31
+16: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 16: www.google.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 16 to www.google.com:4432025-03-01 23:07:31
+17: from 127.0.0.1 2025-03-01 23:07:31
+17: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Forwarding POST request for client 17: http://o.pki.goog/wr22025-03-01 23:07:31
+No clientID: [INFO] Completed forwarding POST request for client 172025-03-01 23:07:31
+17: Received "" from o.pki.goog 2025-03-01 23:07:31
+18: from 127.0.0.1 2025-03-01 23:07:31
+18: Requesting "CONNECT csp.withgoogle.com:443 HTTP/1.1" from csp.withgoogle.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 18: csp.withgoogle.com:4432025-03-01 23:07:31
+19: from 127.0.0.1 2025-03-01 23:07:31
+20: from 127.0.0.1 2025-03-01 23:07:31
+19: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com:443 2025-03-01 23:07:31
+20: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 20: www.gstatic.com:4432025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 19: www.gstatic.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 18 to csp.withgoogle.com:4432025-03-01 23:07:31
+21: from 127.0.0.1 2025-03-01 23:07:31
+21: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Forwarding POST request for client 21: http://o.pki.goog/wr22025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 19 to www.gstatic.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 20 to www.gstatic.com:4432025-03-01 23:07:31
+No clientID: [INFO] Completed forwarding POST request for client 212025-03-01 23:07:31
+21: Received "" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Client 20 closed connection or error occurred2025-03-01 23:07:31
+No clientID: [INFO] Closed tunnel for client 20 to www.gstatic.com:4432025-03-01 23:07:31
+20: Received "" from www.gstatic.com:443 2025-03-01 23:07:31
+22: from 127.0.0.1 2025-03-01 23:07:31
+22: Requesting "CONNECT ogs.google.com:443 HTTP/1.1" from ogs.google.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 22: ogs.google.com:4432025-03-01 23:07:31
+23: from 127.0.0.1 2025-03-01 23:07:31
+24: from 127.0.0.1 2025-03-01 23:07:31
+24: Requesting "CONNECT apis.google.com:443 HTTP/1.1" from apis.google.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 24: apis.google.com:4432025-03-01 23:07:31
+23: Requesting "CONNECT ogads-pa.googleapis.com:443 HTTP/1.1" from ogads-pa.googleapis.com:443 2025-03-01 23:07:31
+No clientID: [INFO] Handling CONNECT request for client 23: ogads-pa.googleapis.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 23 to ogads-pa.googleapis.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 22 to ogs.google.com:4432025-03-01 23:07:31
+No clientID: [INFO] Established tunnel for client 24 to apis.google.com:4432025-03-01 23:07:31
+25: from 127.0.0.1 2025-03-01 23:07:31
+25: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Forwarding POST request for client 25: http://o.pki.goog/wr22025-03-01 23:07:31
+26: from 127.0.0.1 2025-03-01 23:07:31
+26: Requesting "POST http://o.pki.goog/wr2 HTTP/1.1" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Forwarding POST request for client 26: http://o.pki.goog/wr22025-03-01 23:07:31
+No clientID: [INFO] Completed forwarding POST request for client 252025-03-01 23:07:31
+25: Received "" from o.pki.goog 2025-03-01 23:07:31
+No clientID: [INFO] Completed forwarding POST request for client 262025-03-01 23:07:31
+26: Received "" from o.pki.goog 2025-03-01 23:07:31
+27: from 127.0.0.1 2025-03-01 23:07:32
+28: from 127.0.0.1 2025-03-01 23:07:32
+27: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com:443 2025-03-01 23:07:32
+28: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com:443 2025-03-01 23:07:32
+No clientID: [INFO] Handling CONNECT request for client 28: fonts.gstatic.com:4432025-03-01 23:07:32
+No clientID: [INFO] Handling CONNECT request for client 27: fonts.gstatic.com:4432025-03-01 23:07:32
+No clientID: [INFO] Established tunnel for client 27 to fonts.gstatic.com:4432025-03-01 23:07:32
+No clientID: [INFO] Established tunnel for client 28 to fonts.gstatic.com:4432025-03-01 23:07:32
+29: from 127.0.0.1 2025-03-01 23:07:32
+30: from 127.0.0.1 2025-03-01 23:07:32
+30: Requesting "CONNECT play.google.com:443 HTTP/1.1" from play.google.com:443 2025-03-01 23:07:32
+No clientID: [INFO] Handling CONNECT request for client 30: play.google.com:4432025-03-01 23:07:32
+No clientID: [INFO] Established tunnel for client 30 to play.google.com:4432025-03-01 23:07:32
+No clientID: [INFO] Client 28 closed connection or error occurred2025-03-01 23:07:32
+No clientID: [INFO] Closed tunnel for client 28 to fonts.gstatic.com:4432025-03-01 23:07:32
+28: Received "" from fonts.gstatic.com:443 2025-03-01 23:07:32
+29: Requesting "CONNECT play.google.com:443 HTTP/1.1" from play.google.com:443 2025-03-01 23:07:32
+No clientID: [INFO] Handling CONNECT request for client 29: play.google.com:4432025-03-01 23:07:32
+No clientID: [INFO] Established tunnel for client 29 to play.google.com:4432025-03-01 23:07:32
+No clientID: [DEBUG] Tunnel timeout for client 2, checking connection2025-03-01 23:07:38
+No clientID: [DEBUG] Tunnel timeout for client 3, checking connection2025-03-01 23:07:38
+No clientID: [DEBUG] Tunnel timeout for client 6, checking connection2025-03-01 23:07:38
+No clientID: [DEBUG] Tunnel timeout for client 1, checking connection2025-03-01 23:07:40
+No clientID: [DEBUG] Tunnel timeout for client 11, checking connection2025-03-01 23:07:42
+No clientID: [DEBUG] Tunnel timeout for client 14, checking connection2025-03-01 23:07:46
+31: from 127.0.0.1 2025-03-01 23:07:51
+31: Requesting "CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1" from mozilla.cloudflare-dns.com:443 2025-03-01 23:07:51
+No clientID: [INFO] Handling CONNECT request for client 31: mozilla.cloudflare-dns.com:4432025-03-01 23:07:51
+No clientID: [INFO] Established tunnel for client 31 to mozilla.cloudflare-dns.com:4432025-03-01 23:07:51
+No clientID: [DEBUG] Tunnel timeout for client 12, checking connection2025-03-01 23:07:56
+32: from 127.0.0.1 2025-03-01 23:08:00
+32: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:08:00
+No clientID: [INFO] Handling CONNECT request for client 32: www.baidu.com:4432025-03-01 23:08:00
+No clientID: [INFO] Established tunnel for client 32 to www.baidu.com:4432025-03-01 23:08:00
+33: from 127.0.0.1 2025-03-01 23:08:01
+33: Requesting "POST http://ocsp.globalsign.com/gsrsaovsslca2018 HTTP/1.1" from ocsp.globalsign.com 2025-03-01 23:08:01
+No clientID: [INFO] Forwarding POST request for client 33: http://ocsp.globalsign.com/gsrsaovsslca20182025-03-01 23:08:01
+No clientID: [INFO] Completed forwarding POST request for client 332025-03-01 23:08:01
+33: Received "" from ocsp.globalsign.com 2025-03-01 23:08:01
+No clientID: [DEBUG] Tunnel timeout for client 18, checking connection2025-03-01 23:08:01
+34: from 127.0.0.1 2025-03-01 23:08:01
+34: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 34: pss.bdstatic.com:4432025-03-01 23:08:01
+35: from 127.0.0.1 2025-03-01 23:08:01
+36: from 127.0.0.1 2025-03-01 23:08:01
+37: from 127.0.0.1 2025-03-01 23:08:01
+35: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+36: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 36: pss.bdstatic.com:4432025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 35: pss.bdstatic.com:4432025-03-01 23:08:01
+38: from 127.0.0.1 2025-03-01 23:08:01
+39: from 127.0.0.1 2025-03-01 23:08:01
+38: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 38: pss.bdstatic.com:4432025-03-01 23:08:01
+39: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 39: pss.bdstatic.com:4432025-03-01 23:08:01
+40: from 127.0.0.1 2025-03-01 23:08:01
+40: Requesting "CONNECT pss.bdstatic.com:443 HTTP/1.1" from pss.bdstatic.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 40: pss.bdstatic.com:4432025-03-01 23:08:01
+41: from 127.0.0.1 2025-03-01 23:08:01
+41: Requesting "CONNECT hectorstatic.baidu.com:443 HTTP/1.1" from hectorstatic.baidu.com:443 2025-03-01 23:08:01
+No clientID: [INFO] Handling CONNECT request for client 41: hectorstatic.baidu.com:4432025-03-01 23:08:01
+No clientID: [DEBUG] Tunnel timeout for client 24, checking connection2025-03-01 23:08:02
+No clientID: [DEBUG] Tunnel timeout for client 23, checking connection2025-03-01 23:08:02
+No clientID: [DEBUG] Tunnel timeout for client 22, checking connection2025-03-01 23:08:02
+No clientID: [DEBUG] Tunnel timeout for client 27, checking connection2025-03-01 23:08:02
+No clientID: [DEBUG] Tunnel timeout for client 19, checking connection2025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 35 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 38 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 40 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 39 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 34 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [INFO] Established tunnel for client 36 to pss.bdstatic.com:4432025-03-01 23:08:02
+No clientID: [DEBUG] Tunnel timeout for client 30, checking connection2025-03-01 23:08:02
+No clientID: [INFO] Client 34 closed connection or error occurred2025-03-01 23:08:03
+No clientID: [INFO] Closed tunnel for client 34 to pss.bdstatic.com:4432025-03-01 23:08:03
+34: Received "" from pss.bdstatic.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Client 39 closed connection or error occurred2025-03-01 23:08:03
+No clientID: [INFO] Closed tunnel for client 39 to pss.bdstatic.com:4432025-03-01 23:08:03
+39: Received "" from pss.bdstatic.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Client 36 closed connection or error occurred2025-03-01 23:08:03
+No clientID: [INFO] Closed tunnel for client 36 to pss.bdstatic.com:4432025-03-01 23:08:03
+36: Received "" from pss.bdstatic.com:443 2025-03-01 23:08:03
+37: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 37: www.baidu.com:4432025-03-01 23:08:03
+42: from 127.0.0.1 2025-03-01 23:08:03
+43: from 127.0.0.1 2025-03-01 23:08:03
+42: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 42: www.baidu.com:4432025-03-01 23:08:03
+44: from 127.0.0.1 2025-03-01 23:08:03
+43: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 43: www.baidu.com:4432025-03-01 23:08:03
+44: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 44: www.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Client 38 closed connection or error occurred2025-03-01 23:08:03
+No clientID: [INFO] Closed tunnel for client 38 to pss.bdstatic.com:4432025-03-01 23:08:03
+38: Received "" from pss.bdstatic.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Established tunnel for client 44 to www.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Established tunnel for client 43 to www.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Established tunnel for client 42 to www.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Established tunnel for client 37 to www.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Client 40 closed connection or error occurred2025-03-01 23:08:03
+No clientID: [INFO] Closed tunnel for client 40 to pss.bdstatic.com:4432025-03-01 23:08:03
+40: Received "" from pss.bdstatic.com:443 2025-03-01 23:08:03
+45: from 127.0.0.1 2025-03-01 23:08:03
+45: Requesting "CONNECT mbd.baidu.com:443 HTTP/1.1" from mbd.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 45: mbd.baidu.com:4432025-03-01 23:08:03
+46: from 127.0.0.1 2025-03-01 23:08:03
+47: from 127.0.0.1 2025-03-01 23:08:03
+48: from 127.0.0.1 2025-03-01 23:08:03
+46: Requesting "CONNECT sp1.baidu.com:443 HTTP/1.1" from sp1.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 46: sp1.baidu.com:4432025-03-01 23:08:03
+47: Requesting "CONNECT sp1.baidu.com:443 HTTP/1.1" from sp1.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 47: sp1.baidu.com:4432025-03-01 23:08:03
+48: Requesting "CONNECT sp2.baidu.com:443 HTTP/1.1" from sp2.baidu.com:443 2025-03-01 23:08:03
+No clientID: [INFO] Handling CONNECT request for client 48: sp2.baidu.com:4432025-03-01 23:08:03
+No clientID: [INFO] Established tunnel for client 45 to mbd.baidu.com:4432025-03-01 23:08:04
+No clientID: [INFO] Established tunnel for client 47 to sp1.baidu.com:4432025-03-01 23:08:04
+No clientID: [INFO] Established tunnel for client 46 to sp1.baidu.com:4432025-03-01 23:08:04
+No clientID: [INFO] Established tunnel for client 48 to sp2.baidu.com:4432025-03-01 23:08:04
+49: from 127.0.0.1 2025-03-01 23:08:06
+49: Requesting "CONNECT psstatic.cdn.bcebos.com:443 HTTP/1.1" from psstatic.cdn.bcebos.com:443 2025-03-01 23:08:06
+No clientID: [INFO] Handling CONNECT request for client 49: psstatic.cdn.bcebos.com:4432025-03-01 23:08:06
+No clientID: [ERROR] Failed to connect to server: hectorstatic.baidu.com:4432025-03-01 23:08:07
+41: Received "" from hectorstatic.baidu.com:443 2025-03-01 23:08:07
+No clientID: [INFO] Established tunnel for client 49 to psstatic.cdn.bcebos.com:4432025-03-01 23:08:07
+50: from 127.0.0.1 2025-03-01 23:08:07
+50: Requesting "CONNECT sp3.baidu.com:443 HTTP/1.1" from sp3.baidu.com:443 2025-03-01 23:08:07
+No clientID: [INFO] Handling CONNECT request for client 50: sp3.baidu.com:4432025-03-01 23:08:07
+51: from 127.0.0.1 2025-03-01 23:08:07
+51: Requesting "CONNECT passport.baidu.com:443 HTTP/1.1" from passport.baidu.com:443 2025-03-01 23:08:07
+No clientID: [INFO] Handling CONNECT request for client 51: passport.baidu.com:4432025-03-01 23:08:07
+52: from 127.0.0.1 2025-03-01 23:08:07
+52: Requesting "CONNECT mbd.baidu.com:443 HTTP/1.1" from mbd.baidu.com:443 2025-03-01 23:08:07
+No clientID: [INFO] Handling CONNECT request for client 52: mbd.baidu.com:4432025-03-01 23:08:07
+53: from 127.0.0.1 2025-03-01 23:08:07
+53: Requesting "POST http://ocsp.sectigochina.com/ HTTP/1.1" from ocsp.sectigochina.com 2025-03-01 23:08:07
+No clientID: [INFO] Forwarding POST request for client 53: http://ocsp.sectigochina.com/2025-03-01 23:08:07
+No clientID: [INFO] Established tunnel for client 52 to mbd.baidu.com:4432025-03-01 23:08:07
+No clientID: [INFO] Established tunnel for client 50 to sp3.baidu.com:4432025-03-01 23:08:08
+No clientID: [INFO] Completed forwarding POST request for client 532025-03-01 23:08:08
+53: Received "" from ocsp.sectigochina.com 2025-03-01 23:08:08
+No clientID: [INFO] Established tunnel for client 51 to passport.baidu.com:4432025-03-01 23:08:08
+No clientID: [DEBUG] Tunnel timeout for client 29, checking connection2025-03-01 23:08:17
+No clientID: [DEBUG] Tunnel timeout for client 31, checking connection2025-03-01 23:08:21
+No clientID: [DEBUG] Tunnel timeout for client 12, checking connection2025-03-01 23:08:27
+No clientID: [DEBUG] Tunnel timeout for client 16, checking connection2025-03-01 23:08:31
+No clientID: [DEBUG] Tunnel timeout for client 44, checking connection2025-03-01 23:08:34
+No clientID: [DEBUG] Tunnel timeout for client 42, checking connection2025-03-01 23:08:34
+No clientID: [DEBUG] Tunnel timeout for client 43, checking connection2025-03-01 23:08:34
+No clientID: [DEBUG] Tunnel timeout for client 37, checking connection2025-03-01 23:08:34
+No clientID: [DEBUG] Tunnel timeout for client 47, checking connection2025-03-01 23:08:35
+No clientID: [DEBUG] Tunnel timeout for client 46, checking connection2025-03-01 23:08:35
+No clientID: [DEBUG] Tunnel timeout for client 48, checking connection2025-03-01 23:08:35
+No clientID: [DEBUG] Tunnel timeout for client 3, checking connection2025-03-01 23:08:36
+No clientID: [DEBUG] Tunnel timeout for client 2, checking connection2025-03-01 23:08:36
+No clientID: [DEBUG] Tunnel timeout for client 32, checking connection2025-03-01 23:08:37
+No clientID: [DEBUG] Tunnel timeout for client 6, checking connection2025-03-01 23:08:37
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:08:37
+No clientID: [INFO] Closed tunnel for client 45 to mbd.baidu.com:4432025-03-01 23:08:37
+45: Received "" from mbd.baidu.com:443 2025-03-01 23:08:37
+No clientID: [DEBUG] Tunnel timeout for client 35, checking connection2025-03-01 23:08:37
+No clientID: [DEBUG] Tunnel timeout for client 1, checking connection2025-03-01 23:08:38
+No clientID: [DEBUG] Tunnel timeout for client 52, checking connection2025-03-01 23:08:38
+No clientID: [DEBUG] Tunnel timeout for client 49, checking connection2025-03-01 23:08:38
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:08:38
+No clientID: [INFO] Closed tunnel for client 52 to mbd.baidu.com:4432025-03-01 23:08:38
+52: Received "" from mbd.baidu.com:443 2025-03-01 23:08:38
+No clientID: [DEBUG] Tunnel timeout for client 50, checking connection2025-03-01 23:08:38
+No clientID: [DEBUG] Tunnel timeout for client 51, checking connection2025-03-01 23:08:39
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:08:39
+No clientID: [INFO] Closed tunnel for client 51 to passport.baidu.com:4432025-03-01 23:08:39
+51: Received "" from passport.baidu.com:443 2025-03-01 23:08:39
+No clientID: [DEBUG] Tunnel timeout for client 11, checking connection2025-03-01 23:08:40
+54: from 127.0.0.1 2025-03-01 23:08:44
+55: from 127.0.0.1 2025-03-01 23:08:44
+54: Requesting "CONNECT mbd.baidu.com:443 HTTP/1.1" from mbd.baidu.com:443 2025-03-01 23:08:44
+55: Requesting "CONNECT mbd.baidu.com:443 HTTP/1.1" from mbd.baidu.com:443 2025-03-01 23:08:44
+No clientID: [INFO] Handling CONNECT request for client 54: mbd.baidu.com:4432025-03-01 23:08:44
+No clientID: [INFO] Handling CONNECT request for client 55: mbd.baidu.com:4432025-03-01 23:08:44
+No clientID: [DEBUG] Tunnel timeout for client 14, checking connection2025-03-01 23:08:44
+No clientID: [INFO] Established tunnel for client 54 to mbd.baidu.com:4432025-03-01 23:08:44
+No clientID: [INFO] Established tunnel for client 55 to mbd.baidu.com:4432025-03-01 23:08:44
+56: from 127.0.0.1 2025-03-01 23:08:44
+56: Requesting "CONNECT hectorstatic.baidu.com:443 HTTP/1.1" from hectorstatic.baidu.com:443 2025-03-01 23:08:44
+No clientID: [INFO] Handling CONNECT request for client 56: hectorstatic.baidu.com:4432025-03-01 23:08:44
+57: from 127.0.0.1 2025-03-01 23:08:44
+57: Requesting "CONNECT mbd.baidu.com:443 HTTP/1.1" from mbd.baidu.com:443 2025-03-01 23:08:44
+No clientID: [INFO] Handling CONNECT request for client 57: mbd.baidu.com:4432025-03-01 23:08:44
+No clientID: [INFO] Established tunnel for client 57 to mbd.baidu.com:4432025-03-01 23:08:45
+No clientID: [INFO] Established tunnel for client 56 to hectorstatic.baidu.com:4432025-03-01 23:08:45
+58: from 127.0.0.1 2025-03-01 23:08:45
+58: Requesting "CONNECT hector.baidu.com:443 HTTP/1.1" from hector.baidu.com:443 2025-03-01 23:08:45
+No clientID: [INFO] Handling CONNECT request for client 58: hector.baidu.com:4432025-03-01 23:08:45
+No clientID: [INFO] Client 32 closed connection or error occurred2025-03-01 23:08:46
+No clientID: [INFO] Closed tunnel for client 32 to www.baidu.com:4432025-03-01 23:08:46
+32: Received "" from www.baidu.com:443 2025-03-01 23:08:46
+No clientID: [INFO] Established tunnel for client 58 to hector.baidu.com:4432025-03-01 23:08:46
+59: from 127.0.0.1 2025-03-01 23:08:47
+59: Requesting "CONNECT passport.baidu.com:443 HTTP/1.1" from passport.baidu.com:443 2025-03-01 23:08:47
+No clientID: [INFO] Handling CONNECT request for client 59: passport.baidu.com:4432025-03-01 23:08:47
+No clientID: [INFO] Established tunnel for client 59 to passport.baidu.com:4432025-03-01 23:08:47
+60: from 127.0.0.1 2025-03-01 23:08:58
+61: from 127.0.0.1 2025-03-01 23:08:58
+62: from 127.0.0.1 2025-03-01 23:08:58
+60: Requesting "CONNECT ss0.baidu.com:443 HTTP/1.1" from ss0.baidu.com:443 2025-03-01 23:08:58
+No clientID: [INFO] Handling CONNECT request for client 60: ss0.baidu.com:4432025-03-01 23:08:58
+61: Requesting "CONNECT ss1.baidu.com:443 HTTP/1.1" from ss1.baidu.com:443 2025-03-01 23:08:58
+No clientID: [INFO] Handling CONNECT request for client 61: ss1.baidu.com:4432025-03-01 23:08:58
+62: Requesting "CONNECT ss2.baidu.com:443 HTTP/1.1" from ss2.baidu.com:443 2025-03-01 23:08:58
+No clientID: [INFO] Handling CONNECT request for client 62: ss2.baidu.com:4432025-03-01 23:08:58
+63: from 127.0.0.1 2025-03-01 23:08:58
+63: Requesting "CONNECT ss3.baidu.com:443 HTTP/1.1" from ss3.baidu.com:443 2025-03-01 23:08:58
+No clientID: [INFO] Handling CONNECT request for client 63: ss3.baidu.com:4432025-03-01 23:08:58
+No clientID: [INFO] Established tunnel for client 62 to ss2.baidu.com:4432025-03-01 23:08:59
+No clientID: [INFO] Established tunnel for client 61 to ss1.baidu.com:4432025-03-01 23:08:59
+No clientID: [INFO] Established tunnel for client 60 to ss0.baidu.com:4432025-03-01 23:08:59
+No clientID: [INFO] Established tunnel for client 63 to ss3.baidu.com:4432025-03-01 23:08:59
+No clientID: [DEBUG] Tunnel timeout for client 30, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 18, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 24, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 23, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 22, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 19, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 27, checking connection2025-03-01 23:09:00
+No clientID: [DEBUG] Tunnel timeout for client 44, checking connection2025-03-01 23:09:04
+No clientID: [DEBUG] Tunnel timeout for client 42, checking connection2025-03-01 23:09:04
+No clientID: [DEBUG] Tunnel timeout for client 43, checking connection2025-03-01 23:09:04
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:04
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:04
+No clientID: [INFO] Closed tunnel for client 44 to www.baidu.com:4432025-03-01 23:09:04
+44: Received "" from www.baidu.com:443 2025-03-01 23:09:04
+No clientID: [INFO] Closed tunnel for client 43 to www.baidu.com:4432025-03-01 23:09:04
+43: Received "" from www.baidu.com:443 2025-03-01 23:09:04
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:04
+No clientID: [INFO] Closed tunnel for client 42 to www.baidu.com:4432025-03-01 23:09:04
+42: Received "" from www.baidu.com:443 2025-03-01 23:09:04
+No clientID: [DEBUG] Tunnel timeout for client 12, checking connection2025-03-01 23:09:13
+No clientID: [DEBUG] Tunnel timeout for client 47, checking connection2025-03-01 23:09:15
+No clientID: [DEBUG] Tunnel timeout for client 46, checking connection2025-03-01 23:09:15
+No clientID: [DEBUG] Tunnel timeout for client 48, checking connection2025-03-01 23:09:15
+No clientID: [DEBUG] Tunnel timeout for client 29, checking connection2025-03-01 23:09:15
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:15
+No clientID: [INFO] Closed tunnel for client 55 to mbd.baidu.com:4432025-03-01 23:09:15
+55: Received "" from mbd.baidu.com:443 2025-03-01 23:09:15
+No clientID: [DEBUG] Tunnel timeout for client 49, checking connection2025-03-01 23:09:16
+No clientID: [DEBUG] Tunnel timeout for client 54, checking connection2025-03-01 23:09:17
+No clientID: [DEBUG] Tunnel timeout for client 57, checking connection2025-03-01 23:09:17
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:17
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:17
+No clientID: [INFO] Closed tunnel for client 54 to mbd.baidu.com:4432025-03-01 23:09:17
+54: Received "" from mbd.baidu.com:443 2025-03-01 23:09:17
+No clientID: [INFO] Closed tunnel for client 57 to mbd.baidu.com:4432025-03-01 23:09:17
+57: Received "" from mbd.baidu.com:443 2025-03-01 23:09:17
+No clientID: [DEBUG] Tunnel timeout for client 56, checking connection2025-03-01 23:09:17
+No clientID: [DEBUG] Tunnel timeout for client 50, checking connection2025-03-01 23:09:17
+No clientID: [DEBUG] Tunnel timeout for client 59, checking connection2025-03-01 23:09:18
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:18
+No clientID: [INFO] Closed tunnel for client 59 to passport.baidu.com:4432025-03-01 23:09:18
+59: Received "" from passport.baidu.com:443 2025-03-01 23:09:18
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:09:18
+No clientID: [INFO] Closed tunnel for client 58 to hector.baidu.com:4432025-03-01 23:09:18
+58: Received "" from hector.baidu.com:443 2025-03-01 23:09:18
+No clientID: [DEBUG] Tunnel timeout for client 31, checking connection2025-03-01 23:09:20
+No clientID: [DEBUG] Tunnel timeout for client 16, checking connection2025-03-01 23:09:29
+No clientID: [DEBUG] Tunnel timeout for client 60, checking connection2025-03-01 23:09:30
+No clientID: [DEBUG] Tunnel timeout for client 62, checking connection2025-03-01 23:09:30
+No clientID: [DEBUG] Tunnel timeout for client 61, checking connection2025-03-01 23:09:30
+No clientID: [DEBUG] Tunnel timeout for client 63, checking connection2025-03-01 23:09:30
+No clientID: [DEBUG] Tunnel timeout for client 2, checking connection2025-03-01 23:09:34
+No clientID: [DEBUG] Tunnel timeout for client 3, checking connection2025-03-01 23:09:35
+No clientID: [DEBUG] Tunnel timeout for client 6, checking connection2025-03-01 23:09:35
+No clientID: [DEBUG] Tunnel timeout for client 1, checking connection2025-03-01 23:09:37
+No clientID: [DEBUG] Tunnel timeout for client 35, checking connection2025-03-01 23:09:37
+No clientID: [DEBUG] Tunnel timeout for client 11, checking connection2025-03-01 23:09:39
+No clientID: [DEBUG] Tunnel timeout for client 37, checking connection2025-03-01 23:09:43
+No clientID: [DEBUG] Tunnel timeout for client 14, checking connection2025-03-01 23:09:43
+No clientID: [DEBUG] Tunnel timeout for client 46, checking connection2025-03-01 23:09:45
+No clientID: [DEBUG] Tunnel timeout for client 47, checking connection2025-03-01 23:09:45
+No clientID: [DEBUG] Tunnel timeout for client 48, checking connection2025-03-01 23:09:45
+No clientID: [DEBUG] Tunnel timeout for client 56, checking connection2025-03-01 23:09:47
+No clientID: [DEBUG] Tunnel timeout for client 50, checking connection2025-03-01 23:09:47
+No clientID: [INFO] Client 6 closed connection or error occurred2025-03-01 23:09:59
+No clientID: [INFO] Closed tunnel for client 6 to ads-img.mozilla.org:4432025-03-01 23:09:59
+6: Received "" from ads-img.mozilla.org:443 2025-03-01 23:09:59
+No clientID: [INFO] Client 3 closed connection or error occurred2025-03-01 23:09:59
+No clientID: [INFO] Closed tunnel for client 3 to merino.services.mozilla.com:4432025-03-01 23:09:59
+3: Received "" from merino.services.mozilla.com:443 2025-03-01 23:09:59
+No clientID: [INFO] Client 2 closed connection or error occurred2025-03-01 23:09:59
+No clientID: [INFO] Closed tunnel for client 2 to ads.mozilla.org:4432025-03-01 23:09:59
+2: Received "" from ads.mozilla.org:443 2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 30, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 24, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 18, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 19, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 27, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 22, checking connection2025-03-01 23:09:59
+No clientID: [DEBUG] Tunnel timeout for client 23, checking connection2025-03-01 23:09:59
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:00
+No clientID: [INFO] Closed tunnel for client 60 to ss0.baidu.com:4432025-03-01 23:10:00
+60: Received "" from ss0.baidu.com:443 2025-03-01 23:10:00
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:00
+No clientID: [INFO] Closed tunnel for client 62 to ss2.baidu.com:4432025-03-01 23:10:00
+62: Received "" from ss2.baidu.com:443 2025-03-01 23:10:00
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:00
+No clientID: [INFO] Closed tunnel for client 61 to ss1.baidu.com:4432025-03-01 23:10:00
+61: Received "" from ss1.baidu.com:443 2025-03-01 23:10:00
+No clientID: [INFO] Client 63 closed connection or error occurred2025-03-01 23:10:00
+No clientID: [INFO] Closed tunnel for client 63 to ss3.baidu.com:4432025-03-01 23:10:00
+63: Received "" from ss3.baidu.com:443 2025-03-01 23:10:00
+No clientID: [INFO] Client 11 closed connection or error occurred2025-03-01 23:10:03
+No clientID: [INFO] Closed tunnel for client 11 to firefox.settings.services.mozilla.com:4432025-03-01 23:10:03
+11: Received "" from firefox.settings.services.mozilla.com:443 2025-03-01 23:10:03
+No clientID: [INFO] Client 14 closed connection or error occurred2025-03-01 23:10:07
+No clientID: [INFO] Closed tunnel for client 14 to encrypted-tbn0.gstatic.com:4432025-03-01 23:10:07
+14: Received "" from encrypted-tbn0.gstatic.com:443 2025-03-01 23:10:07
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:10
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:10
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:10
+No clientID: [INFO] Closed tunnel for client 46 to sp1.baidu.com:4432025-03-01 23:10:10
+No clientID: [INFO] Closed tunnel for client 48 to sp2.baidu.com:4432025-03-01 23:10:10
+48: Received "" from sp2.baidu.com:443 2025-03-01 23:10:10
+46: Received "" from sp1.baidu.com:443 2025-03-01 23:10:10
+No clientID: [INFO] Closed tunnel for client 47 to sp1.baidu.com:4432025-03-01 23:10:10
+47: Received "" from sp1.baidu.com:443 2025-03-01 23:10:10
+No clientID: [DEBUG] Tunnel timeout for client 12, checking connection2025-03-01 23:10:12
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:12
+No clientID: [INFO] Closed tunnel for client 50 to sp3.baidu.com:4432025-03-01 23:10:12
+50: Received "" from sp3.baidu.com:443 2025-03-01 23:10:12
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:10:12
+No clientID: [INFO] Closed tunnel for client 37 to www.baidu.com:4432025-03-01 23:10:12
+37: Received "" from www.baidu.com:443 2025-03-01 23:10:12
+No clientID: [DEBUG] Tunnel timeout for client 29, checking connection2025-03-01 23:10:14
+No clientID: [DEBUG] Tunnel timeout for client 49, checking connection2025-03-01 23:10:15
+No clientID: [DEBUG] Tunnel timeout for client 56, checking connection2025-03-01 23:10:17
+64: from 127.0.0.1 2025-03-01 23:10:17
+64: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org:443 2025-03-01 23:10:17
+No clientID: [INFO] Handling CONNECT request for client 64: incoming.telemetry.mozilla.org:4432025-03-01 23:10:17
+No clientID: [INFO] Established tunnel for client 64 to incoming.telemetry.mozilla.org:4432025-03-01 23:10:17
+No clientID: [DEBUG] Tunnel timeout for client 31, checking connection2025-03-01 23:10:19
+No clientID: [INFO] Client 18 closed connection or error occurred2025-03-01 23:10:21
+No clientID: [INFO] Closed tunnel for client 18 to csp.withgoogle.com:4432025-03-01 23:10:21
+18: Received "" from csp.withgoogle.com:443 2025-03-01 23:10:21
+No clientID: [INFO] Client 27 closed connection or error occurred2025-03-01 23:10:22
+No clientID: [INFO] Client 24 closed connection or error occurred2025-03-01 23:10:22
+No clientID: [INFO] Closed tunnel for client 24 to apis.google.com:4432025-03-01 23:10:22
+No clientID: [INFO] Client 22 closed connection or error occurred2025-03-01 23:10:22
+No clientID: [INFO] Client 23 closed connection or error occurred2025-03-01 23:10:22
+No clientID: [INFO] Closed tunnel for client 27 to fonts.gstatic.com:4432025-03-01 23:10:22
+27: Received "" from fonts.gstatic.com:443 2025-03-01 23:10:22
+No clientID: [INFO] Client 19 closed connection or error occurred2025-03-01 23:10:22
+No clientID: [INFO] Closed tunnel for client 19 to www.gstatic.com:4432025-03-01 23:10:22
+19: Received "" from www.gstatic.com:443 2025-03-01 23:10:22
+24: Received "" from apis.google.com:443 2025-03-01 23:10:22
+No clientID: [INFO] Closed tunnel for client 22 to ogs.google.com:4432025-03-01 23:10:22
+22: Received "" from ogs.google.com:443 2025-03-01 23:10:22
+No clientID: [INFO] Closed tunnel for client 23 to ogads-pa.googleapis.com:4432025-03-01 23:10:22
+23: Received "" from ogads-pa.googleapis.com:443 2025-03-01 23:10:22
+No clientID: [INFO] Client 30 closed connection or error occurred2025-03-01 23:10:23
+No clientID: [INFO] Closed tunnel for client 30 to play.google.com:4432025-03-01 23:10:23
+30: Received "" from play.google.com:443 2025-03-01 23:10:23
+No clientID: [DEBUG] Tunnel timeout for client 16, checking connection2025-03-01 23:10:28
+No clientID: [DEBUG] Tunnel timeout for client 1, checking connection2025-03-01 23:10:35
+No clientID: [DEBUG] Tunnel timeout for client 35, checking connection2025-03-01 23:10:36
+65: from 127.0.0.1 2025-03-01 23:10:36
+65: Requesting "CONNECT ss0.baidu.com:443 HTTP/1.1" from ss0.baidu.com:443 2025-03-01 23:10:36
+No clientID: [INFO] Handling CONNECT request for client 65: ss0.baidu.com:4432025-03-01 23:10:36
+66: from 127.0.0.1 2025-03-01 23:10:37
+66: Requesting "CONNECT ss0.baidu.com:443 HTTP/1.1" from ss0.baidu.com:443 2025-03-01 23:10:37
+No clientID: [INFO] Handling CONNECT request for client 66: ss0.baidu.com:4432025-03-01 23:10:37
+No clientID: [INFO] Established tunnel for client 65 to ss0.baidu.com:4432025-03-01 23:10:37
+No clientID: [INFO] Client 65 closed connection or error occurred2025-03-01 23:10:37
+No clientID: [INFO] Closed tunnel for client 65 to ss0.baidu.com:4432025-03-01 23:10:37
+65: Received "" from ss0.baidu.com:443 2025-03-01 23:10:37
+No clientID: [INFO] Established tunnel for client 66 to ss0.baidu.com:4432025-03-01 23:10:37
+No clientID: [INFO] Client 29 closed connection or error occurred2025-03-01 23:10:37
+No clientID: [INFO] Closed tunnel for client 29 to play.google.com:4432025-03-01 23:10:37
+29: Received "" from play.google.com:443 2025-03-01 23:10:37
+67: from 127.0.0.1 2025-03-01 23:10:38
+67: Requesting "CONNECT www.baidu.com:443 HTTP/1.1" from www.baidu.com:443 2025-03-01 23:10:38
+No clientID: [INFO] Handling CONNECT request for client 67: www.baidu.com:4432025-03-01 23:10:38
+No clientID: [INFO] Established tunnel for client 67 to www.baidu.com:4432025-03-01 23:10:38
+No clientID: [INFO] Client 56 closed connection or error occurred2025-03-01 23:10:42
+No clientID: [INFO] Closed tunnel for client 56 to hectorstatic.baidu.com:4432025-03-01 23:10:42
+56: Received "" from hectorstatic.baidu.com:443 2025-03-01 23:10:42
+No clientID: [INFO] Client 49 closed connection or error occurred2025-03-01 23:10:46
+No clientID: [INFO] Closed tunnel for client 49 to psstatic.cdn.bcebos.com:4432025-03-01 23:10:46
+49: Received "" from psstatic.cdn.bcebos.com:443 2025-03-01 23:10:46
+No clientID: [DEBUG] Tunnel timeout for client 64, checking connection2025-03-01 23:10:47
+No clientID: [INFO] Client 16 closed connection or error occurred2025-03-01 23:10:51
+No clientID: [INFO] Closed tunnel for client 16 to www.google.com:4432025-03-01 23:10:51
+16: Received "" from www.google.com:443 2025-03-01 23:10:51
+No clientID: [INFO] Client 1 closed connection or error occurred2025-03-01 23:10:59
+No clientID: [INFO] Closed tunnel for client 1 to incoming.telemetry.mozilla.org:4432025-03-01 23:10:59
+1: Received "" from incoming.telemetry.mozilla.org:443 2025-03-01 23:10:59
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:11:07
+No clientID: [INFO] Closed tunnel for client 35 to pss.bdstatic.com:4432025-03-01 23:11:07
+35: Received "" from pss.bdstatic.com:443 2025-03-01 23:11:07
+No clientID: [DEBUG] Tunnel timeout for client 66, checking connection2025-03-01 23:11:08
+No clientID: [DEBUG] Tunnel timeout for client 67, checking connection2025-03-01 23:11:09
+No clientID: [DEBUG] Tunnel timeout for client 12, checking connection2025-03-01 23:11:10
+No clientID: [DEBUG] Tunnel timeout for client 31, checking connection2025-03-01 23:11:17
+No clientID: [INFO] Client 12 closed connection or error occurred2025-03-01 23:11:34
+No clientID: [INFO] Closed tunnel for client 12 to www.google.com:4432025-03-01 23:11:34
+12: Received "" from www.google.com:443 2025-03-01 23:11:34
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:11:38
+No clientID: [INFO] Closed tunnel for client 66 to ss0.baidu.com:4432025-03-01 23:11:38
+66: Received "" from ss0.baidu.com:443 2025-03-01 23:11:38
+No clientID: [INFO] Server closed connection or error occurred2025-03-01 23:11:39
+No clientID: [INFO] Closed tunnel for client 67 to www.baidu.com:4432025-03-01 23:11:39
+67: Received "" from www.baidu.com:443 2025-03-01 23:11:39
+No clientID: [DEBUG] Tunnel timeout for client 64, checking connection2025-03-01 23:11:46

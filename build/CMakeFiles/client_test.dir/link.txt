@@ -1,1 +1,1 @@
-/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/client_test.dir/test/client_test.cpp.o -o client_test  -lpthread /opt/homebrew/lib/libssl.dylib /opt/homebrew/lib/libcrypto.dylib
+/usr/bin/clang++ -g -arch arm64 -mmacosx-version-min=14.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/client_test.dir/test/client_test.cpp.o -o client_test  -lpthread /opt/homebrew/lib/libssl.dylib /opt/homebrew/lib/libcrypto.dylib

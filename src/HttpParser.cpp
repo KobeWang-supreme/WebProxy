@@ -6,6 +6,7 @@ HttpParser::HttpParser() {}
 
 HttpRequest HttpParser::parseRequest(const std::string& rawRequest) {
     HttpRequest request;
+    request.raw = rawRequest;
     // Bind the stream with request
     std::istringstream stream(rawRequest);
     std::string line;
@@ -33,6 +34,21 @@ HttpRequest HttpParser::parseRequest(const std::string& rawRequest) {
             if (!value.empty() && value.back() == '\r') {
                 value.pop_back();
             }
+            if (key == "Host") {
+                size_t portPos = value.find(':');
+                if (portPos != std::string::npos) {
+                    // If port is specified, extract hostname and port
+                    request.host = value.substr(0, portPos);
+                    request.port = value.substr(portPos + 1);
+                } else {
+                    // If no port is specified, use the hostname and default port
+                    request.host = value;
+                    request.port = "80";
+                    if (request.method == "CONNECT") {
+                        request.port = "443";
+                    }
+                }       
+            }
             request.headers[key] = value;
         }
     }
@@ -43,7 +59,6 @@ HttpRequest HttpParser::parseRequest(const std::string& rawRequest) {
         bodyStream << line << "\n";
     }
     request.body = bodyStream.str();
-
     return request;
 }
 

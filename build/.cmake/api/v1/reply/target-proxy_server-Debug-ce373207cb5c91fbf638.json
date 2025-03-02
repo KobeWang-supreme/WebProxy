@@ -56,7 +56,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6"
+					"fragment" : "-g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6"
 				},
 				{
 					"backtrace" : 3,
@@ -75,7 +75,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "/Users/ning/Documents/Github/WebProxy/src"
+					"path" : "/Users/john_wang/Desktop/proxy/WebProxy/src"
 				}
 			],
 			"language" : "CXX",

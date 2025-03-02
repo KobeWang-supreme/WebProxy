@@ -4,9 +4,9 @@
 # compile CXX with /usr/bin/clang++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/ning/Documents/Github/WebProxy/src
+CXX_INCLUDES = -I/Users/john_wang/Desktop/proxy/WebProxy/src
 
-CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread
+CXX_FLAGSarm64 = -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread
 
-CXX_FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -Wall -Wextra -pthread
+CXX_FLAGS = -g -std=gnu++17 -arch arm64 -mmacosx-version-min=14.6 -Wall -Wextra -pthread
 

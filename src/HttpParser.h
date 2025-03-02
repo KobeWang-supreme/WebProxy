@@ -9,6 +9,9 @@ struct HttpRequest {
     std::string version;
     std::unordered_map<std::string, std::string> headers;
     std::string body;
+    std::string raw;
+    std::string host;
+    std::string port;
 };
 
 class HttpParser {
